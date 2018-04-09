@@ -2,5 +2,6 @@
 
 def position_taken?(board,index)
  if !(" "|| "")
+   return FALSE
  end
 end
